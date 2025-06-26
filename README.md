@@ -64,13 +64,6 @@ L’exécutable sera généré sous le nom : `banking_sqlite.exe`
 
 ---
 
-## 🤝 Contribuer
-
-Les contributions sont les bienvenues !  
-N’hésitez pas à ouvrir une issue ou une pull request.
-
----
-
 ## 📄 Licence
 
 Ce projet est fourni à des fins pédagogiques et de démonstration.
