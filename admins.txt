@@ -1,12 +1,7 @@
 Nom : RACHIDA
-Prenom : AMOURAK
+Prenom : amo
 Telephone : 0657453787
 Mot de passe : 4444
----------------------------------------------
-Nom : AYA
-Prenom : BOUIBAOUN
-Telephone : 075424511
-Mot de passe : 1111
 ---------------------------------------------
 Nom : SALIMA
 Prenom : SOUAD
