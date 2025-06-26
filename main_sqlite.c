@@ -1667,7 +1667,7 @@ void G() {
 int main() {
     // Configurer la taille de la console
     system("mode con: cols=90 lines=30");
-    
+
     // Mettre la console en UTF-8 AVANT tout affichage
     SetConsoleOutputCP(65001);
 
@@ -1897,7 +1897,12 @@ void afficherMenuModerne(const char *titre, const char *options[], int nb_option
     afficherLigneVide();
 
     for (int i = 0; i < nb_options; i++) {
-        printf("║  [%d] %-*s ║\n", i + 1, BOX_WIDTH - 7, options[i]);
+        char ligne[BOX_WIDTH];
+        int n = snprintf(ligne, sizeof(ligne), "  [%d] %s ", i + 1, options[i]);
+        printf("║");
+        printf("%s", ligne);
+        for (int j = n; j < BOX_WIDTH - 2; j++) printf(" ");
+        printf("║\n");
     }
 
     afficherLigneVide();
