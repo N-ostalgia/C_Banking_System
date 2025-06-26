@@ -22,18 +22,6 @@ Date de naissance : 01/03/2001
 Type de compte : ETUDIANT
 Solde initial : 50.00
 ---------------------------------------------
-RIB : 7654321
-Mot de passe : 1234
-Numero de compte : 3
-Nom : BOUIBAUAN
-Prenom : AYA
-CIN : SB36666
-Telephone : 0645367829
-Email : AYA@gmai.com
-Date de naissance : 10/08/2004
-Type de compte : EPARGNE
-Solde initial : 2000.00
----------------------------------------------
 RIB : 1234567899
 Mot de passe : 3333
 Numero de compte : 4
