@@ -1,6 +1,0 @@
-1 1
-12 1
-COURANT 4
-Courant 1
-EPARGNE 1
-ETUDIANT 2
