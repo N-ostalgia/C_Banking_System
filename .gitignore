@@ -1,8 +1,27 @@
+# Binaires et objets
 *.exe
 *.dll
+*.o
+*.a
+*.so
+*.lib
+
+# Base de données
 *.db
-*.cbp
-*.layout
-*.depend
+
+# Répertoires de build
 bin/
 obj/
+
+# Fichiers temporaires et IDE
+*.cbp.*
+*.layout
+*.depend
+.DS_Store
+Thumbs.db
+*~
+*.bak
+
+# Fichiers de test/données sensibles (à adapter selon ton projet)
+client.txt
+test.txt
