@@ -1,0 +1,36 @@
+ID demande : 3
+RIB : 2222
+Mot de passe : Mot
+Nom : Prenom
+Prenom : :
+CIN : AMOURAK
+Telephone : 0657453787
+Email : :
+Date de naissance : 32766/00/000Mot
+Type de compte : Telephone
+Solde initial : 0.00
+---------------------------------------------
+ID demande : 4
+RIB : 2222
+Mot de passe : 123455
+Nom : SALMA
+Prenom : SAID
+CIN : CD113456
+Telephone : 0712345678
+Email : salma@gmail.com
+Date de naissance : 12/13/2007
+Type de compte : EPARGNE
+Solde initial : 0.00
+---------------------------------------------
+ID demande : 5
+RIB : 2222
+Mot de passe : 1
+Nom : RAVH
+Prenom : YGG
+CIN : YFF
+Telephone : FY
+Email : SDQDS
+Date de naissance : 12/12/2001
+Type de compte : DSG
+Solde initial : 0.00
+---------------------------------------------

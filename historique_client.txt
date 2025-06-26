@@ -1,0 +1,436 @@
+RIB : 7
+Date : 15/12/2024 14:35:35
+Vous vous etes authentifie a votre compte. 
+
+RIB : 7
+Date : 15/12/2024 14:35:53
+Vous avez effectue un depot de : 800.00 DH
+
+RIB : 7
+Date : 15/12/2024 14:36:40
+Vous avez effectue un virement de : 10.00 DH au compte 2
+
+RIB : 7
+Date : 15/12/2024 14:40:29
+Vous vous etes authentifie a votre compte. 
+
+RIB : 7
+Date : 15/12/2024 14:41:04
+Vous avez effectuer une demande de modification de Nom par salma . 
+
+RIB : 7
+Date : 15/12/2024 14:41:28
+Vous avez effectuer une demande de 7 carnet(s) de cheque avec 7 feuilles . 
+
+RIB : 7
+Date : 15/12/2024 14:42:58
+Vous vous etes authentifie a votre compte. 
+
+RIB : 7
+Date : 15/12/2024 14:45:54
+Vous vous etes authentifie a votre compte. 
+
+RIB : 7
+Date : 15/12/2024 14:48:30
+Vous vous etes authentifie a votre compte. 
+
+RIB : 7
+Date : 15/12/2024 14:52:22
+Vous vous etes authentifie a votre compte. 
+
+RIB : 2
+Date : 15/12/2024 14:53:22
+Vous vous etes authentifie a votre compte. 
+
+RIB : 2
+Date : 15/12/2024 14:56:04
+Vous vous etes authentifie a votre compte. 
+
+RIB : 2
+Date : 15/12/2024 14:56:33
+Vous vous etes authentifie a votre compte. 
+
+RIB : 2
+Date : 15/12/2024 14:57:04
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 15:01:11
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 15:01:24
+Vous avez effectue un depot de : 700.00 DH
+
+RIB : 9
+Date : 15/12/2024 15:02:09
+Vous avez effectuer une demande de modification de Prenom par SALOM . 
+
+RIB : 9
+Date : 15/12/2024 15:02:31
+Vous avez effectue un retrait de : 2.00 DH
+
+RIB : 9
+Date : 15/12/2024 15:04:49
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 15:05:21
+Vous avez effectuer une demande de 1 carnet(s) de cheque avec 12 feuilles . 
+
+RIB : 9
+Date : 15/12/2024 15:06:17
+Vous avez effectuer une demande de modification de Nom par sara . 
+
+RIB : 7
+Date : 15/12/2024 15:22:09
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 15:24:53
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 15:38:34
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 15:39:07
+Vous avez effectuer une demande de modification de Prenom par DADA . 
+
+RIB : 2
+Date : 15/12/2024 15:43:04
+Vous vous etes authentifie a votre compte. 
+
+RIB : 2
+Date :15/12/2024 15:43:23
+ Vous avez effectuer une demande de suppression du compte . 
+
+RIB : 9
+Date : 15/12/2024 15:46:09
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 16:38:47
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:18:43
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:25:37
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:26:31
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:27:15
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:30:55
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:31:29
+Vous avez payer une facture de montant : 0.01 DH 
+
+RIB : 9
+Date : 15/12/2024 18:32:47
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:33:59
+Vous avez payer une facture de montant : 12.00 DH 
+
+RIB : 9
+Date : 15/12/2024 18:35:47
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:39:44
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:41:09
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:41:50
+Vous vous etes authentifie a votre compte. 
+
+RIB : 1
+Date : 15/12/2024 18:44:54
+Vous vous etes authentifie a votre compte. 
+
+RIB : 1
+Date : 15/12/2024 18:45:50
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 18:48:12
+Vous vous etes authentifie a votre compte. 
+
+RIB : 1
+Date : 15/12/2024 18:58:22
+Vous vous etes authentifie a votre compte. 
+
+RIB : 1
+Date : 15/12/2024 21:57:58
+Vous vous etes authentifie a votre compte. 
+
+RIB : 1
+Date : 15/12/2024 21:58:51
+Vous vous etes authentifie a votre compte. 
+
+RIB : 1
+Date : 15/12/2024 22:00:21
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 22:38:13
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 15/12/2024 22:38:57
+Vous avez effectue un depot de : 500000.00 DH
+
+RIB : 9
+Date : 16/12/2024 21:58:33
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 03:28:18
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 03:30:19
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 03:37:04
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 13:02:25
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 13:12:16
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 13:13:32
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 13:16:34
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 13:20:31
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 13:20:55
+Vous avez effectuer une demande de 3 carnet(s) de cheque avec 7 feuilles . 
+
+RIB : 123456789
+Date : 17/12/2024 13:24:22
+Vous vous etes authentifie a votre compte. 
+
+RIB : 123456789
+Date : 17/12/2024 13:24:39
+Vous avez effectuer une demande de 3 carnet(s) de cheque avec 7 feuilles . 
+
+RIB : 9
+Date : 19/12/2024 00:52:23
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 19/12/2024 00:52:32
+Vous avez effectue un retrait de : 12.00 DH
+
+RIB : 9
+Date : 19/12/2024 00:52:46
+Vous avez effectue un depot de : 1700.00 DH
+
+RIB : 9
+Date : 19/12/2024 00:53:23
+Vous vous etes authentifie a votre compte. 
+
+RIB : 9
+Date : 19/12/2024 00:53:39
+Vous avez effectue un virement de : 1000.00 DH au compte 1
+
+RIB : 1
+Date : 19/10/2024 00:53:39
+Vous avez effectue un virement de : 10.00 DH au compte 2
+
+RIB : 1
+Date : 19/11/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/9/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH
+
+RIB : 1
+Date : 19/8/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH
+
+RIB : 1
+Date : 19/7/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/6/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/6/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/6/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/6/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/5/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/5/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/4/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/3/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/2/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH
+ 
+RIB : 1
+Date : 19/1/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/1/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 1
+Date : 19/1/2024 00:53:39
+Vous avez effectue un depot de : 10.00 DH 
+
+RIB : 12345678
+Date : 19/12/2024 11:37:17
+Vous vous etes authentifie a votre compte. 
+
+RIB : 12345678
+Date : 19/12/2024 11:38:22
+Vous avez effectuer une demande de 3 carnet(s) de cheque avec 5 feuilles . 
+
+RIB : 12345678
+Date : 19/12/2024 11:43:38
+Vous avez effectuer une demande de modification de Nom par Safaa . 
+
+RIB : 12345678
+Date :19/12/2024 11:45:35
+ Vous avez effectuer une demande de suppression du compte . 
+
+RIB : 12345678
+Date : 19/12/2024 11:50:27
+Vous vous etes authentifie a votre compte. 
+
+RIB : 12345678
+Date : 19/12/2024 11:55:46
+Vous vous etes authentifie a votre compte. 
+
+RIB : 12345678
+Date : 19/12/2024 11:56:49
+Vous avez effectue un depot de : 2000.00 DH
+
+RIB : 12345678
+Date : 19/12/2024 11:57:06
+Vous avez effectue un depot de : 1000.00 DH
+
+RIB : 12345678
+Date : 19/12/2024 11:58:12
+Vous avez effectue un virement de : 50.00 DH au compte 87654321
+
+RIB : 7654321
+Date : 19/12/2024 12:03:10
+Vous vous etes authentifie a votre compte. 
+
+RIB : 7654321
+Date : 19/12/2024 12:03:42
+Vous avez effectue un depot de : 2000.00 DH
+
+RIB : 12345678
+Date : 19/12/2024 12:06:05
+Vous vous etes authentifie a votre compte. 
+
+RIB : 12345678
+Date : 19/12/2024 12:06:38
+Vous avez effectue un depot de : 2000.00 DH
+
+RIB : 12345678
+Date : 19/12/2024 12:16:15
+Vous vous etes authentifie a votre compte. 
+
+RIB : 12345678
+Date : 19/12/2024 12:18:39
+Vous vous etes authentifie a votre compte. 
+
+RIB : 87654321
+Date : 19/12/2024 12:54:13
+Vous vous etes authentifie a votre compte. 
+
+RIB : 87654321
+Date : 19/12/2024 12:55:13
+Vous avez effectuer une demande de 2 carnet(s) de cheque avec 100 feuilles . 
+
+RIB : 87654321
+Date : 19/12/2024 12:56:23
+Vous avez effectuer une demande de modification de Nom par Rachida . 
+
+RIB : 87654321
+Date :19/12/2024 12:57:27
+ Vous avez effectuer une demande de suppression du compte . 
+
+RIB : 87654321
+Date : 19/12/2024 13:05:35
+Vous vous etes authentifie a votre compte. 
+
+RIB : 87654321
+Date : 19/12/2024 13:07:12
+Vous avez effectuer une demande de modification de Prenom par Amourak . 
+
+RIB : 87654321
+Date : 19/12/2024 13:08:55
+Vous vous etes authentifie a votre compte. 
+
+RIB : 87654321
+Date : 19/12/2024 13:09:24
+Vous avez effectuer une demande de 9 carnet(s) de cheque avec 9 feuilles . 
+
+RIB : 87654321
+Date : 19/12/2024 13:24:27
+Vous vous etes authentifie a votre compte. 
+
+RIB : 12345678
+Date : 19/12/2024 14:49:40
+Vous vous etes authentifie a votre compte. 
+

@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1750522933 source:c:\users\bouib\desktop\gestion des compte bancaire\database.c
+	"database.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1750522933 c:\users\bouib\desktop\gestion des compte bancaire\database.h
+	<sqlite3.h>
+	<time.h>
+
+1750504914 c:\users\bouib\desktop\gestion des compte bancaire\sqlite3.h
+	<stdarg.h>
+
+1750706875 source:c:\users\bouib\desktop\gestion des compte bancaire\main_sqlite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	"database.h"
+
+1750504914 source:c:\users\bouib\desktop\gestion des compte bancaire\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<ctype.h>
+	<TargetConditionals.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<sys/stat.h>
+	<unistd.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<Windows.h>
+	"tclsqlite.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1750519416 source:c:\users\bouib\desktop\gestion des compte bancaire\gui_client.c
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"database.h"
+	"gui_common.h"
+
+1750522622 source:c:\users\bouib\desktop\gestion des compte bancaire\gui_main.c
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"database.h"
+	"gui_common.h"
+
+1750519469 c:\users\bouib\desktop\gestion des compte bancaire\gui_common.h
+	<windows.h>
+
+1750519456 source:c:\users\bouib\desktop\gestion des compte bancaire\gui_common.c
+	"gui_common.h"
+

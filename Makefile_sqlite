@@ -1,0 +1,45 @@
+# Makefile for SQLite Banking System
+# For Windows with MinGW
+
+CC = gcc
+CFLAGS = -Wall -Wextra -std=c99
+LIBS = -lsqlite3
+TARGET = banking_sqlite.exe
+SOURCES = main_sqlite.c database.c
+OBJECTS = $(SOURCES:.c=.o)
+
+# Default target
+all: $(TARGET)
+
+# Link the executable
+$(TARGET): $(OBJECTS)
+	$(CC) $(OBJECTS) -o $(TARGET) $(LIBS)
+
+# Compile source files
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Clean build files
+clean:
+	del /Q *.o $(TARGET) 2>nul || echo "Clean completed"
+
+# Run the program
+run: $(TARGET)
+	./$(TARGET)
+
+# Install dependencies (Windows)
+install-deps:
+	@echo "Installing SQLite development files..."
+	@echo "Please ensure SQLite is installed and in your PATH"
+	@echo "You can download from: https://www.sqlite.org/download.html"
+
+# Help
+help:
+	@echo "Available targets:"
+	@echo "  all          - Build the banking system"
+	@echo "  clean        - Remove build files"
+	@echo "  run          - Build and run the program"
+	@echo "  install-deps - Show dependency installation info"
+	@echo "  help         - Show this help message"
+
+.PHONY: all clean run install-deps help 
